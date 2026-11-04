@@ -72,10 +72,6 @@ errors correctly ignored by the caller (`igv_chrSim_1196.png`).
 - No BQSR, no VQSR/hard filtering beyond QUAL/DP, no population database
   filtering (gnomAD) and no clinical interpretation (ACMG).
 
-## Next steps
 
-- Run on a real public exome subset against GRCh38
-- Annotate with a human database (SnpEff/VEP), filter with gnomAD, check ClinVar
-- Practice ACMG-based variant interpretation
 
 ![IGV view of chrSim:1196](igv_chrSim_1196.png)
