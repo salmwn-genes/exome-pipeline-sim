@@ -1,0 +1,20 @@
+1196	G	A	missense_variant	MODERATE	gene1	p.Ser66Asn
+3753	C	T	synonymous_variant	LOW	gene1	p.Asp918Asp
+4752	G	T	synonymous_variant	LOW	gene1	p.Pro1251Pro
+7667	G	T	missense_variant	MODERATE	gene2	p.Thr445Asn
+13334	T	G	upstream_gene_variant	MODIFIER	gene2	
+20394	C	T	missense_variant	MODERATE	gene3	p.Pro132Leu
+22095	C	T	missense_variant	MODERATE	gene3	p.Ser699Phe
+26365	A	T	missense_variant	MODERATE	gene4	p.Ser879Thr
+28433	A	T	synonymous_variant	LOW	gene4	p.Thr189Thr
+31180	G	C	missense_variant	MODERATE	gene5	p.Gly61Arg
+31950	A	G	synonymous_variant	LOW	gene5	p.Gln317Gln
+32928	C	G	synonymous_variant	LOW	gene5	p.Arg643Arg
+37840	A	G	upstream_gene_variant	MODIFIER	gene6	
+38112	T	A	missense_variant	MODERATE	gene6	p.Ile38Asn
+38546	G	C	missense_variant	MODERATE	gene6	p.Val183Leu
+39920	T	A	missense_variant	MODERATE	gene6	p.Trp641Arg
+40408	G	T	synonymous_variant	LOW	gene6	p.Thr803Thr
+41658	T	G	downstream_gene_variant	MODIFIER	gene6	
+44601	A	G	downstream_gene_variant	MODIFIER	gene6	
+48052	T	A	intergenic_region	MODIFIER	gene6-CHR_END	

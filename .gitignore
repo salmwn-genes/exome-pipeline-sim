@@ -1,0 +1,13 @@
+*.fastq
+*.sam
+*.bam
+*.bai
+*.idx
+gatk-4.6.2.0/
+gatk-4.6.2.0.zip
+ref.fa.*
+ref.fasta*
+test_java21.vcf*
+qc/
+results/ref.fa
+results/truth.txt

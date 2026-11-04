@@ -1,0 +1,25 @@
+##gff-version 3
+chrSim	sim	gene	1000	4998	.	+	.	ID=gene1;Name=gene1
+chrSim	sim	mRNA	1000	4998	.	+	.	ID=gene1.t1;Parent=gene1
+chrSim	sim	exon	1000	4998	.	+	.	ID=gene1.e1;Parent=gene1.t1
+chrSim	sim	CDS	1000	4998	.	+	0	ID=gene1.c1;Parent=gene1.t1
+chrSim	sim	gene	7000	9000	.	-	.	ID=gene2;Name=gene2
+chrSim	sim	mRNA	7000	9000	.	-	.	ID=gene2.t1;Parent=gene2
+chrSim	sim	exon	7000	9000	.	-	.	ID=gene2.e1;Parent=gene2.t1
+chrSim	sim	CDS	7000	9000	.	-	0	ID=gene2.c1;Parent=gene2.t1
+chrSim	sim	gene	20000	22999	.	+	.	ID=gene3;Name=gene3
+chrSim	sim	mRNA	20000	22999	.	+	.	ID=gene3.t1;Parent=gene3
+chrSim	sim	exon	20000	22999	.	+	.	ID=gene3.e1;Parent=gene3.t1
+chrSim	sim	CDS	20000	22999	.	+	0	ID=gene3.c1;Parent=gene3.t1
+chrSim	sim	gene	26000	28999	.	-	.	ID=gene4;Name=gene4
+chrSim	sim	mRNA	26000	28999	.	-	.	ID=gene4.t1;Parent=gene4
+chrSim	sim	exon	26000	28999	.	-	.	ID=gene4.e1;Parent=gene4.t1
+chrSim	sim	CDS	26000	28999	.	-	0	ID=gene4.c1;Parent=gene4.t1
+chrSim	sim	gene	31000	33999	.	+	.	ID=gene5;Name=gene5
+chrSim	sim	mRNA	31000	33999	.	+	.	ID=gene5.t1;Parent=gene5
+chrSim	sim	exon	31000	33999	.	+	.	ID=gene5.e1;Parent=gene5.t1
+chrSim	sim	CDS	31000	33999	.	+	0	ID=gene5.c1;Parent=gene5.t1
+chrSim	sim	gene	38000	40999	.	+	.	ID=gene6;Name=gene6
+chrSim	sim	mRNA	38000	40999	.	+	.	ID=gene6.t1;Parent=gene6
+chrSim	sim	exon	38000	40999	.	+	.	ID=gene6.e1;Parent=gene6.t1
+chrSim	sim	CDS	38000	40999	.	+	0	ID=gene6.c1;Parent=gene6.t1
