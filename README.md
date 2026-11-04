@@ -72,6 +72,6 @@ errors correctly ignored by the caller (`igv_chrSim_1196.png`).
 - No BQSR, no VQSR/hard filtering beyond QUAL/DP, no population database
   filtering (gnomAD) and no clinical interpretation (ACMG).
 
-
+## IGV view
 
 ![IGV view of chrSim:1196](igv_chrSim_1196.png)
